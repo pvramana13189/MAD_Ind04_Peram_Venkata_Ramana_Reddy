@@ -55,9 +55,8 @@
         <!--Navigation Controller-->
         <scene sceneID="QuY-rn-k1v">
             <objects>
-                <navigationController id="O5a-iP-Hax" sceneMemberID="viewController">
+                <navigationController navigationBarHidden="YES" id="O5a-iP-Hax" sceneMemberID="viewController">
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="vdv-GR-gmV">
-                        <rect key="frame" x="0.0" y="59" width="393" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <connections>
