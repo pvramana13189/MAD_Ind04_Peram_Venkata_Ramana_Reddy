@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A5445BF82BD6A884003A1C5C /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5445BF72BD6A884003A1C5C /* TableViewController.swift */; };
 		A562A44A2BD4C6C10026A394 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A562A4492BD4C6C10026A394 /* AppDelegate.swift */; };
 		A562A44C2BD4C6C10026A394 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A562A44B2BD4C6C10026A394 /* SceneDelegate.swift */; };
 		A562A44E2BD4C6C10026A394 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A562A44D2BD4C6C10026A394 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A5445BF72BD6A884003A1C5C /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		A562A4462BD4C6C10026A394 /* MAD_Ind04_Peram_Venkata_Ramana_Reddy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MAD_Ind04_Peram_Venkata_Ramana_Reddy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A562A4492BD4C6C10026A394 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A562A44B2BD4C6C10026A394 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				A562A4492BD4C6C10026A394 /* AppDelegate.swift */,
 				A562A44B2BD4C6C10026A394 /* SceneDelegate.swift */,
 				A562A44D2BD4C6C10026A394 /* ViewController.swift */,
+				A5445BF72BD6A884003A1C5C /* TableViewController.swift */,
 				A562A44F2BD4C6C10026A394 /* Main.storyboard */,
 				A562A4552BD4C6C20026A394 /* Assets.xcassets */,
 				A562A4572BD4C6C20026A394 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				A562A4542BD4C6C10026A394 /* MAD_Ind04_Peram_Venkata_Ramana_Reddy.xcdatamodeld in Sources */,
 				A562A44E2BD4C6C10026A394 /* ViewController.swift in Sources */,
 				A562A44A2BD4C6C10026A394 /* AppDelegate.swift in Sources */,
+				A5445BF82BD6A884003A1C5C /* TableViewController.swift in Sources */,
 				A562A44C2BD4C6C10026A394 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
